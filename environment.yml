@@ -1,0 +1,28 @@
+# Setup the environment for producing the results in the paper
+# Activate the environment to run your code using "source activate TPS-identification"
+# or "activate TPS-identification" on Windows.
+name: TPS-identification
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python
+    - pip
+    - numpy
+    - pandas
+    - matplotlib
+    - scipy
+    - jupyter=1.0.0
+    - scikit-learn
+    - hdbscan
+    - pip:
+        - webcolors
+        - tqdm
+        - geopy
+        - folium==0.8.3
+        - suntime
+        - datetime
+        - python-dateutil
+        - sentence_transformers
+        - kneed
+        - pyarrow
