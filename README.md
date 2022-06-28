@@ -1,6 +1,6 @@
 # Clustering Method for Touristic Photographic Spots Recommendation
 
-This paper has been submitted for publication in the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD).
+This paper has been submitted for publication in the International Conference on Advanced Data Mining and Applications ADMA2022
 
 ## Abstract
 
@@ -26,9 +26,9 @@ See the `README.md` files in each directory for a full description.
 You can download a copy of all the files in this repository by cloning the
 [git](https://git-scm.com/) repository:
 
-    git clone https://github.com/flaviendeseure/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation.git
+    git clone https://github.com/DjebaliSonia/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation.git
 
-or [download a zip archive](https://github.com/flaviendeseure/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/archive/refs/heads/main.zip).
+or [download a zip archive](https://github.com/DjebaliSonia/Clustering-Method-for-Touristic-Photographic-Spots-Recommendation/archive/refs/heads/main.zip).
 
 
 ## Getting the data
@@ -84,7 +84,7 @@ notebook that you wish to view/run.
 The notebook is divided into cells (some have text while other have code).
 Each cell can be executed using `Shift + Enter`.
 Executing text cells does nothing and executing code cells runs the code
-and produces it's output.
+and produces it's output
 To execute the whole notebook, run all cells in order.
 
 
@@ -95,5 +95,5 @@ use and modify the code, without warranty, so long as you provide attribution
 to the authors. See `LICENSE` for the full license text.
 
 The manuscript text is not open source. The authors reserve the rights to the
-article content, which is currently submitted for publication in the
-European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD).
+article content, which is currently submitted for publication in the International Conference
+Advanced Data Mining and Applications 2022 (ADMA2022)
